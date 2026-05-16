@@ -1,5 +1,4 @@
-# 🚀 Welcome to My Workspace!
-**Hi there, I'm Yusuf!**
+**Hi 👋, I'm Yusuf!**
 
 I am a 3rd-year Software Engineering student with a deep passion for Computer Vision, AI-driven smart systems, and architecting high-performance backends.
 
