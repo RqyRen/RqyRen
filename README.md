@@ -6,6 +6,7 @@ I am a 3rd-year Software Engineering student with a deep passion for Computer Vi
 * 🧠 **AI & Computer Vision:** Object detection (YOLO) and fine-tuning vision-language models (Qwen2).
 * ⚙️ **Backend Development:** Building fast, scalable, and secure APIs.
 * 🤟 **Featured Projects:** AI-powered fitness system (GymGo) and automated industrial safety detection.
+
 ---
 
 ### ⚡ Tech Stack
@@ -31,11 +32,11 @@ I am a 3rd-year Software Engineering student with a deep passion for Computer Vi
 
 ### 🤝 Let's Connect
 <a href="https://www.linkedin.com/in/muhammet-yusuf-%C3%BCnl%C3%BC-a59459340/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:muhammetyusufunluis@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
 </a>
 <a href="https://www.instagram.com/myusufunlu/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
 </a>
