@@ -1,19 +1,19 @@
 ## Hi 👋, I'm Yusuf
 
-AI tabanlı akıllı sistemler ve yüksek performanslı backend mimarileri geliştiren,Yazılım Mühendisliği 3. sınıf bir üniversite öğrencisiyim.
+I am a 3rd-year Software Engineering student developing AI-driven smart systems and high-performance backend architectures.
 
-### 💻 Neler Yapıyorum?
-* 🧠 **Yapay Zeka & Bilgisayarlı Görü:** YOLO modelleriyle nesne tespiti (iş güvenliği, yemek/kalori analizi) ve görüntü-dil modelleri (Qwen2) üzerine ince ayar (fine-tuning) çalışmaları yapıyorum.
-* ⚙️ **Backend Geliştirme:** FastAPI, SQLite ve Redis kullanarak hızlı, ölçeklenebilir ve güvenli (OAuth2/JWT) API'ler inşa ediyorum.
-* 🤟 **Öne Çıkan Projelerim:** Yapay zeka destekli fitness/beslenme (GymGo) sistemleri üzerine ve çalışma alanlarında otomatik ekipman kontrolü sağlayan kaza tespit sistemleri üzerine çalışıyorum.
+### 💻 What I Do
+* 🧠 **AI & Computer Vision:** I work on object detection using YOLO models (occupational safety, food/calorie analysis) and fine-tuning vision-language models (Qwen2).
+* ⚙️ **Backend Development:** I build fast, scalable, and secure (OAuth2/JWT) APIs using FastAPI, SQLite, and Redis.
+* 🤟 **Featured Projects:** I am currently working on an AI-powered fitness and nutrition system (GymGo) and an automated equipment inspection/accident detection system for industrial workspaces.
 
-### 🛠️ Teknoloji Yığınım
-* **Diller:** Python, JavaScript, C#, HTML/CSS
-* **Backend & Veritabanı:** FastAPI, SQLAlchemy, SQLite, Redis
-* **AI & Veri Bilimi:** Computer Vision, Deep Learning, OpenCV
-* **Araçlar:** Git, Docker, Anaconda, Uvicorn
+### 🛠️ Tech Stack
+* **Languages:** Python, JavaScript, C#, HTML/CSS
+* **Backend & Databases:** FastAPI, SQLAlchemy, SQLite, Redis
+* **AI & Data Science:** Computer Vision, Deep Learning, OpenCV
+* **Tools:** Git, Docker, Anaconda, Uvicorn
 
 ---
-📫 **Benimle İletişime Geçin:** 
+📫 **Get in Touch:** 
 https://www.linkedin.com/in/muhammet-yusuf-%C3%BCnl%C3%BC-a59459340/
 muhammetyusufunluis@gmail.com
