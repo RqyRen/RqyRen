@@ -40,3 +40,6 @@ I am a 3rd-year Software Engineering student with a deep passion for Computer Vi
 <a href="mailto:muhammetyusufunluis@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="https://www.instagram.com/myusufunlu/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
