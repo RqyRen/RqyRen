@@ -3,14 +3,14 @@
 
 I am a 3rd-year Software Engineering student with a deep passion for Computer Vision, AI-driven smart systems, and architecting high-performance backends.
 
-### 🔭 Focus Areas
-* 🧠 **AI & Vision:** Object detection (YOLO), fine-tuning vision-language models (Qwen2).
-* ⚙️ **Backend:** Building fast, scalable, and secure APIs.
-* 🛡️ **Security:** Implementing OAuth2/JWT and robust cache architectures.
+### 💻 What I Do
+* 🧠 **AI & Computer Vision:** Object detection (YOLO) and fine-tuning vision-language models (Qwen2).
+* ⚙️ **Backend Development:** Building fast, scalable, and secure APIs.
+* 🤟 **Featured Projects:** AI-powered fitness system (GymGo) and automated industrial safety detection.
 
 ---
 
-### ⚡ (Tech Stack)
+### ⚡ Tech Stack
 
 **AI & Core** <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,13 +28,13 @@ I am a 3rd-year Software Engineering student with a deep passion for Computer Vi
 
 ---
 
-### 🌟 Flagship Projects
-* 🏋️‍♂️ **GymGo:** An AI-powered fitness and nutrition tracking ecosystem.
-* 🦺 **Auto-Inspect:** Automated occupational safety (PPE) & accident detection system for industrial environments.
+🤟 **Featured Projects:**
+* **GymPT:** An AI-powered fitness and nutrition tracking ecosystem.
+* **ArchiSafe:** Automated occupational safety (PPE) & accident detection system for industrial environments.
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### 🤝 Let's Connect
 <a href="https://www.linkedin.com/in/muhammet-yusuf-%C3%BCnl%C3%BC-a59459340/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
