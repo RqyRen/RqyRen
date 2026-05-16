@@ -5,7 +5,7 @@ I am a 3rd-year Software Engineering student with a deep passion for Computer Vi
 ### 💻 What I Do
 * 🧠 **AI & Computer Vision:** Object detection (YOLO) and fine-tuning vision-language models (Qwen2).
 * ⚙️ **Backend Development:** Building fast, scalable, and secure APIs.
-* 🤟 **Featured Projects:** AI-powered fitness system (GymGo) and automated industrial safety detection.
+* 🤟 **Featured Projects:** AI-powered fitness system (GymPT) and automated industrial safety detection (PPE).
 
 ---
 
@@ -25,7 +25,7 @@ I am a 3rd-year Software Engineering student with a deep passion for Computer Vi
 ---
 
 ### 🌟 Flagship Projects
-* 🏋️‍♂️ **GymGo:** An AI-powered fitness and nutrition tracking ecosystem.
+* 🏋️‍♂️ **GymPT:** An AI-powered fitness and nutrition tracking ecosystem.
 * 🦺 **Auto-Inspect:** Automated occupational safety (PPE) & accident detection system for industrial environments.
 
 ---
